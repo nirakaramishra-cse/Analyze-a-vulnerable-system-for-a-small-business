@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/banner.png" alt="Secure System Audit Banner" width="100%">
+  <img src="assets/banner.png" alt="Secure System Audit Banner" width="900" height="300">
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/system-diagram.svg" alt="System Diagram" width="85%">
+  <img src="assets/system-diagram.png" alt="System Diagram" width="90%">
 </p>
 
 # Vulnerability Assessment – Public Database Server
