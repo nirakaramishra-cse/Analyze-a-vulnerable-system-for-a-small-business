@@ -29,5 +29,3 @@ Files:
     <img src="https://img.shields.io/badge/📄%20View%20Full%20Report-0A66C2?style=for-the-badge">
   </a>
 </p>
-
-
