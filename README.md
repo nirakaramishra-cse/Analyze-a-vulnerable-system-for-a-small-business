@@ -24,5 +24,10 @@ strategy using NIST SP 800-30 Rev. 1 framework.
 
 Files:
 - `vulnerability_assessment.md` — Full assessment report
+<p align="center">
+  <a href="vulnerability_assessment.md">
+    <img src="https://img.shields.io/badge/📄%20View%20Full%20Report-0A66C2?style=for-the-badge">
+  </a>
+</p>
 
 
